@@ -1,0 +1,17 @@
+#content {width:960px !important}
+#main {background-image:none !important}
+#storm-container{position:relative;width:960px}
+.picture{width:100px;height:200px;cursor:pointer}
+.picture img{position:absolute;border:1px solid #ccc}
+.hatchet-gallery-hover-box {position:absolute;width:220px;float:left;z-index:10;border-top:1px solid #bbb;border-left:1px solid #bbb;top:0px;padding:36px 14px 0px 0px;margin:-8px 0px 0px -8px;background-color:white;-moz-box-shadow: 1px 1px 1px #bbb;-webkit-box-shadow: 1px 1px 1px #bbb;box-shadow: 1px 1px 1px #bbb;}
+.fancybox-lock .fancybox-overlay {overflow: auto !important; overflow-y:auto !important}
+.fancybox-lock {overflow:auto !important}
+body {margin-right:0px !important}
+.photo-grid-header{padding-bottom:8px;width:470px;text-align:left;font-size:28px}
+.photo-grid-title{margin:0px 0px 8px 0px;padding-left:20px;}
+.photo-grid-header em {color:#666;font-size:18px;font-family:"Lucida Sans", "Lucida Sans Unicode", "Lucida Grande", "Helvetica Neue", Helvetica, Arial, sans-serif}
+.photo-grid-header p {color:#333;padding-left:20px;}
+.photo-float-left {float:left}
+.photo-float-right {float:right}
+#main {margin-top:20px !important}
+.no-line-image {background-image:url('header-newsroom-no-line.png') !important}
